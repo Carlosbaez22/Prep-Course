@@ -1,0 +1,9 @@
+Variables: son espacios como pequeñas cajas en donde puedes guardar 
+lo que desees para luego usarlo.
+strings: puedes escribir lo que desees pero siempre con comillas "" para que
+funcionen correctamente.
+funciones: sirven como herramienta para cambiar o manejar las variables que tenemos.
+declaraciones:  con esta herramienta podemos poner condiciones y saber si una 
+cosa es de una forma u de otra.
+valores booleanos: estos valores solo dicen si algo es verdadero o falso segun como 
+este armada la instruccion. 
